@@ -1,7 +1,13 @@
 # USDX Whitepaper
-The USDX Whitepaper can be found online at https://docs.google.com/document/d/1BqtFQaewWX0Mw6A33RKRjVKMh_wfGktrBmN2oGONjYc/.
 
-### Table of Contents
+# Abstract
+The global financial system sits on vast untapped asset equity while increasingly relying on fiat issuance, fueling inflation and instability. Value should flow from assets, not to them.  
+
+Stable proposes an asset-based financial system, using a medium of exchange backed by real-world value. Advances in AI and real-time monitoring enable increasingly precise asset valuation, making large-scale implementation more feasible each year.  
+
+Real estate is the ideal starting point—globally traded, deeply embedded in finance, yet largely untapped in equity. Stable aims to dissolve that complexity, unlocking its true value.
+
+## Table of Contents
 1. Introduction
 2. Solution
 3. Benefits
