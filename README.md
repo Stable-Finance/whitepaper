@@ -1,4 +1,5 @@
 # USDX Whitepaper
+You can read the [USDX Whitepaper here](https://github.com/Stable-Finance/whitepaper/blob/main/USDX%20Whitepaper.pdf) or open the file in this GitHub Repository.
 
 # Abstract
 The global financial system sits on vast untapped asset equity while increasingly relying on fiat issuance, fueling inflation and instability. Value should flow from assets, not to them.  
