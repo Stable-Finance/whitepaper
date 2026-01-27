@@ -1,5 +1,5 @@
 # USDX Whitepaper
-You can read the [USDX Whitepaper in Stable's Docs](https://stable-8.gitbook.io/stable-docs/) or find the PDF file ([USDX Whitepaper.pdf](https://github.com/Stable-Finance/whitepaper/blob/main/USDX%20Whitepaper.pdf)) in this GitHub Repository.
+You can read the [USDX Whitepaper in Stable's Docs](https://stable-8.gitbook.io/stable-docs/stable-docs/usdx-whitepaper) or find the PDF file ([USDX Whitepaper.pdf](https://github.com/Stable-Finance/whitepaper/blob/main/USDX%20Whitepaper.pdf)) in this GitHub Repository.
 
 # Abstract
 The global financial system sits on vast untapped asset equity while increasingly relying on fiat issuance, fueling inflation and instability. Value should flow from assets, not to them.  
